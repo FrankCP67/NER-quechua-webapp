@@ -1,4 +1,0 @@
-cache_dir/*
-input/bert*
-outputs/checkpoint*
-outputs/pytorch_model.bin
