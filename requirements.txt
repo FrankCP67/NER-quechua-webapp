@@ -1,4 +1,4 @@
 https://download.pytorch.org/whl/cpu/torch-1.9.0%2Bcpu-cp39-cp39-linux_x86_64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.10.0%2Bcpu-cp39-cp39-linux_x86_64.whl
-tranformers==2.8
+transformers==2.8
 simpletransformers
