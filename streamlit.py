@@ -1,5 +1,5 @@
 from simpletransformers.classification import ClassificationModel
 
 model = ClassificationModel(
-    "bert", "outputs"
+    "bert", "outputs", use_cuda=False
 )
