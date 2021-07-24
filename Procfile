@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit.py && simple-viewer
+web: sh setup.sh && python streamlit.py && simple-viewer
