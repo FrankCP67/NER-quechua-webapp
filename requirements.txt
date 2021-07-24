@@ -1,3 +1,2 @@
 tensorflow
-transformers==2.8
 simpletransformers
