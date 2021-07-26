@@ -3,9 +3,9 @@
 
 El presente trabajo de investigación planteará una metodología a seguir según la revisión del estado del arte concerniente a BERT y su uso en NER. Se realizará un modelo pre entrenado BERT a partir de un conjunto de datos no anotados en quechua con tal de obtener una base sobre la cual aplicar ajustes. A su vez, se utilizará un conjunto de datos anotado para NER de otro idioma traducido al quechua con tal de ajustar el modelo. Finalmente se elabora una propuesta de un aplicativo con tal de mostrar resultados claros.
 
+## Demostración del Web App
 
-
-
+Ingrese a este enlace: https://share.streamlit.io/frankcp67/ner-quechua-webapp/main
 
 ## Ejecución
 
